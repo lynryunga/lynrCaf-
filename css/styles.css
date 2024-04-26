@@ -60,6 +60,9 @@ img {
 .centrar-texto {
   text-align: center;
 }
+.webp .header{
+  background-image: url(../img/banner.webp);
+}
 .header {
   background-image: url(../img/banner.jpg);
   height: 600px;
